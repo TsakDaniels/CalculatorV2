@@ -1,14 +1,14 @@
 
 body {
-    background:linear-gradient(45deg,rgb(24, 24, 26),rgb(47, 54, 77));
+    background:linear-gradient(75deg, rgb(47, 47, 47),rgb(32, 31, 31));
 }
 
 
 .title {
     width: 360px;
-    color:chocolate;
+    color:#89f87a;
     font-size: 40px;
-    margin-left: 770px;
+    margin-left: 690px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -22,7 +22,7 @@ input[type="button"] {
     
     background-color: rgba(81, 86, 116, 0.061);
     border: none;
-    color: rgb(255, 72, 0);
+    color: #89f87a;
     padding: 35px;
     text-align: center;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -31,7 +31,7 @@ input[type="button"] {
 }
 
 input[type="text"] {
-    background-color: #ff733c;
+    background-color: #89f87a;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
     width: 100%;
