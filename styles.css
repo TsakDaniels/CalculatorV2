@@ -31,11 +31,12 @@ input[type="button"] {
 }
 
 input[type="text"] {
-    background-color: #89f87a;
+    background-color: #ff9e2e;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
     width: 100%;
-    margin-left: 0px;
+    margin-top: -5px;
+    margin-left: -3px;
     padding-top: 80px;
     text-align: center;
     color:#293344;
@@ -44,7 +45,7 @@ input[type="text"] {
 .CalculatorBody {
    
     border-radius: 10px;
-    background-color: #293344;
+    background-color: #535353;
 }
 
 .ResultBox {
